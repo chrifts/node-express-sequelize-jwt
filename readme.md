@@ -9,3 +9,5 @@
 3. Go to 'cloned-folder/' and run `npm install`
 
 4. run `npm start`
+
+5. You need to have sequelize CLI installed (see https://www.npmjs.com/package/sequelize-cli),then you can run: `sequelize db:migrate` Now you have the *Users* table created in your selected database. You can also run: `sequelize db:migrate:undo:all` to revert migrations.
