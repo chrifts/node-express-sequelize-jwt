@@ -1,1 +1,3 @@
-#node-express-sequelize-jwt
+# node-express-sequelize-jwt
+
+#### clone & npm install
